@@ -5,11 +5,11 @@ Using four affine transformations (matrix + translation) and their associated pr
 Contents
 
 
-barnsley_fern.py – Python code to generate the fern, histograms, and Chi-square analysis
+linear_project.py – Python code to generate the fern, histograms, and Chi-square analysis
 
-Barnsley_Fern_Presentation.pptx – Project presentation
+Barnsley_Fern.pptx – Project presentation
 
-Barnsley_Fern_Report.pdf – Full written report
+Barnsley_fern.pdf – Full written report
 
 ***What the Project Does***
 
